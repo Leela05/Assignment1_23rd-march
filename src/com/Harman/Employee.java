@@ -1,3 +1,11 @@
+/*
+Create a java project “ Employee Management System” to manage the employees in a company using MySQL database .
+Database name : CompanyDb
+•	Add the Employees ( empCode, name, phone, email, designation, salary, company name, address,  )
+•	View All employees
+
+ */
+
 package com.Harman;
 
 import java.sql.Connection;
